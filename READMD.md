@@ -1,2 +1,3 @@
 # Repo to understand git functionality
-yy
+
+* edit after pushing the first feature from the feature branch
